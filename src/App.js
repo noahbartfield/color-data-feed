@@ -3,6 +3,7 @@ import './App.css';
 import * as firebase from 'firebase';
 import cleanData from './cleanData.js';
 import buildModel from './tfjs';
+import data from './tfjs/data.json'
 
 import ColorBlock from './colorBlock';
 
@@ -16,6 +17,7 @@ function App() {
   const [G, setG] = useState('');
   const [B, setB] = useState('');
   const [colorHistory, setColorHistory] = useState([]);
+  const [colorDataArray, setColorDataArray] = useState([])
 
   function changeColor() {
     let r = Math.floor(Math.random() * 255 + 1);
@@ -53,14 +55,20 @@ function App() {
     changeColor();
   }, []);
 
-  function logData() {
-    cleanData();
+  function build() {
+    buildModel();
   }
 
-  buildModel();
+  function chooseDataColor(e) {
+    const colorArray = data.colors.filter(color => color.label === `${e.target.id}-ish`)
+    setColorDataArray(colorArray)
+  }
 
   return (
     <div className='App'>
+      <div>
+        <button onClick={build}>Train Model</button>
+      </div>
       <div>
         <canvas
           style={{ background: color, height: '240px', width: '240px' }}
@@ -94,11 +102,19 @@ function App() {
         grey-ish
       </button>
       <div>
-        <button onClick={logData}>Log Data</button>
+        <button id='red' onClick={chooseDataColor}>Log Red Data</button>
+        <button id='pink' onClick={chooseDataColor}>Log Pink Data</button>
+        <button id='purple' onClick={chooseDataColor}>Log Purple Data</button>
+        <button id='blue' onClick={chooseDataColor}>Log Blue Data</button>
+        <button id='green' onClick={chooseDataColor}>Log Green Data</button>
+        <button id='yellow' onClick={chooseDataColor}>Log Yellow Data</button>
+        <button id='orange' onClick={chooseDataColor}>Log Orange Data</button>
+        <button id='brown' onClick={chooseDataColor}>Log Brown Data</button>
+        <button id='grey' onClick={chooseDataColor}>Log Grey Data</button>
       </div>
-      <div style={{ display: 'flex', width: '100%', height: 'auto' }}>
-        {colorHistory.length > 0 &&
-          colorHistory.map((colorData) => <ColorBlock colorData={colorData} />)}
+      <div style={{ display: 'flex', flexWrap: 'wrap', width: '100%', height: 'auto' }}>
+        {colorDataArray.length > 0 &&
+          colorDataArray.map((colorData) => <ColorBlock colorData={colorData} />)}
       </div>
     </div>
   );

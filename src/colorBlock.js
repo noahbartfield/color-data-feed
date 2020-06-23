@@ -9,7 +9,7 @@ const colorBlock = ({ colorData }) => {
         flexDirection: 'column',
         justifyContent: 'center',
         alignContent: 'center',
-        margin: '1rem',
+        margin: '0rem',
       }}
     >
       <div
@@ -19,7 +19,7 @@ const colorBlock = ({ colorData }) => {
           width: '30px',
         }}
       />
-      <div>{`${colorData.label}`}</div>
+      {/* <div>{`${colorData.label}`}</div> */}
     </div>
   );
 };

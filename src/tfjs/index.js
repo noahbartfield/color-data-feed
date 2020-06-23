@@ -67,15 +67,15 @@ function buildModel() {
 
     const config = {
         verbose: true,
-        epochs: 5,
+        epochs: 500,
+        validationSplit: 0.1,
         shuffle: true
     }
 
     async function trainModel() {
-        for (let i = 0; i < 10; i++) {
-            const response = await model.fit(xs, ys, config)
-            console.log(response.history.loss[0])
-        }
+        console.log('training..')
+        const response = await model.fit(xs, ys, config)
+        console.log(response.history.loss)
     }
 
     trainModel().then(() => {
