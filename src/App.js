@@ -51,10 +51,6 @@ function App() {
     changeColor();
   }
 
-  useEffect(() => {
-    changeColor();
-  }, []);
-
   function build() {
     buildModel();
   }
