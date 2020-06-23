@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import * as firebase from 'firebase'
+import cleanData from './cleanData.js'
+import trainModel from './tfjs'
 
 function App() {
 
@@ -44,6 +45,11 @@ function App() {
     changeColor()
   }, [])
 
+  function logData() {
+    cleanData()
+  }
+
+  trainModel()
 
   return (
     <div className="App">
@@ -59,6 +65,9 @@ function App() {
       <button id='orange-ish' onClick={submit}>orange-ish</button>
       <button id='brown-ish' onClick={submit}>brown-ish</button>
       <button id='grey-ish' onClick={submit}>grey-ish</button>
+      <div>
+        <button onClick={logData}>Log Data</button>
+      </div>
     </div>
   );
 }
