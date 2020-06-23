@@ -1,2060 +1,5500 @@
 {
-    "colors" : [
-      {
-        "B" : 80,
-        "G" : 229,
-        "R" : 195,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 49,
-        "G" : 247,
-        "R" : 64,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 118,
-        "G" : 172,
-        "R" : 118,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 84,
-        "G" : 219,
-        "R" : 13,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 52,
-        "G" : 90,
-        "R" : 96,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 204,
-        "G" : 225,
-        "R" : 56,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 120,
-        "G" : 222,
-        "R" : 81,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 70,
-        "G" : 70,
-        "R" : 206,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 184,
-        "G" : 158,
-        "R" : 152,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 248,
-        "G" : 9,
-        "R" : 201,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 10,
-        "G" : 176,
-        "R" : 46,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 111,
-        "G" : 192,
-        "R" : 145,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 75,
-        "G" : 39,
-        "R" : 93,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 250,
-        "G" : 57,
-        "R" : 159,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 13,
-        "G" : 135,
-        "R" : 203,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 254,
-        "G" : 83,
-        "R" : 202,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 123,
-        "G" : 127,
-        "R" : 204,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 71,
-        "G" : 69,
-        "R" : 209,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 223,
-        "G" : 101,
-        "R" : 14,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 81,
-        "G" : 184,
-        "R" : 54,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 153,
-        "G" : 158,
-        "R" : 247,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 209,
-        "G" : 141,
-        "R" : 240,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 200,
-        "G" : 39,
-        "R" : 173,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 224,
-        "G" : 174,
-        "R" : 108,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 115,
-        "G" : 151,
-        "R" : 255,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 49,
-        "G" : 24,
-        "R" : 135,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 239,
-        "G" : 147,
-        "R" : 143,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 6,
-        "G" : 150,
-        "R" : 150,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 1,
-        "G" : 61,
-        "R" : 55,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 19,
-        "G" : 220,
-        "R" : 218,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 8,
-        "G" : 255,
-        "R" : 194,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 27,
-        "G" : 244,
-        "R" : 72,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 11,
-        "G" : 228,
-        "R" : 33,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 9,
-        "G" : 141,
-        "R" : 6,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 222,
-        "G" : 247,
-        "R" : 54,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 209,
-        "G" : 80,
-        "R" : 87,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 92,
-        "G" : 3,
-        "R" : 91,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 112,
-        "G" : 72,
-        "R" : 130,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 198,
-        "G" : 170,
-        "R" : 1,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 156,
-        "G" : 66,
-        "R" : 218,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 225,
-        "G" : 179,
-        "R" : 89,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 86,
-        "G" : 50,
-        "R" : 234,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 212,
-        "G" : 180,
-        "R" : 94,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 130,
-        "G" : 237,
-        "R" : 234,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 173,
-        "G" : 17,
-        "R" : 20,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 150,
-        "G" : 138,
-        "R" : 7,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 45,
-        "G" : 236,
-        "R" : 177,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 114,
-        "G" : 22,
-        "R" : 51,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 1,
-        "G" : 191,
-        "R" : 98,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 83,
-        "G" : 36,
-        "R" : 82,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 192,
-        "G" : 250,
-        "R" : 69,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 144,
-        "G" : 227,
-        "R" : 112,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 5,
-        "G" : 37,
-        "R" : 171,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 27,
-        "G" : 22,
-        "R" : 227,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 233,
-        "G" : 27,
-        "R" : 96,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 212,
-        "G" : 49,
-        "R" : 255,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 158,
-        "G" : 145,
-        "R" : 204,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 28,
-        "G" : 158,
-        "R" : 118,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 61,
-        "G" : 186,
-        "R" : 14,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 137,
-        "G" : 22,
-        "R" : 102,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 76,
-        "G" : 28,
-        "R" : 185,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 219,
-        "G" : 194,
-        "R" : 234,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 98,
-        "G" : 135,
-        "R" : 94,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 57,
-        "G" : 42,
-        "R" : 200,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 28,
-        "G" : 1,
-        "R" : 35,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 37,
-        "G" : 30,
-        "R" : 189,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 85,
-        "G" : 146,
-        "R" : 197,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 98,
-        "G" : 110,
-        "R" : 117,
-        "label" : "grey-ish"
-      },
-      {
-        "B" : 71,
-        "G" : 253,
-        "R" : 25,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 118,
-        "G" : 91,
-        "R" : 85,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 207,
-        "G" : 216,
-        "R" : 171,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 31,
-        "G" : 201,
-        "R" : 21,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 210,
-        "G" : 94,
-        "R" : 3,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 63,
-        "G" : 182,
-        "R" : 196,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 85,
-        "G" : 100,
-        "R" : 191,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 163,
-        "G" : 92,
-        "R" : 21,
-        "label" : "blue-ish"
-      },
-      { "B" : 178,
-        "G" : 209,
-        "R" : 242,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 38,
-        "G" : 210,
-        "R" : 219,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 246,
-        "G" : 254,
-        "R" : 51,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 216,
-        "G" : 239,
-        "R" : 127,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 98,
-        "G" : 187,
-        "R" : 133,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 28,
-        "G" : 226,
-        "R" : 23,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 170,
-        "G" : 72,
-        "R" : 201,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 222,
-        "G" : 186,
-        "R" : 85,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 45,
-        "G" : 243,
-        "R" : 49,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 189,
-        "G" : 113,
-        "R" : 105,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 74,
-        "G" : 127,
-        "R" : 140,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 69,
-        "G" : 178,
-        "R" : 255,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 240,
-        "G" : 44,
-        "R" : 249,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 189,
-        "G" : 253,
-        "R" : 211,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 219,
-        "G" : 77,
-        "R" : 13,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 248,
-        "G" : 184,
-        "R" : 127,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 84,
-        "G" : 240,
-        "R" : 177,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 217,
-        "G" : 49,
-        "R" : 145,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 101,
-        "G" : 181,
-        "R" : 154,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 222,
-        "G" : 203,
-        "R" : 37,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 229,
-        "G" : 244,
-        "R" : 211,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 55,
-        "G" : 244,
-        "R" : 254,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 108,
-        "G" : 84,
-        "R" : 52,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 125,
-        "G" : 166,
-        "R" : 63,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 15,
-        "G" : 144,
-        "R" : 113,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 21,
-        "G" : 125,
-        "R" : 103,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 206,
-        "G" : 219,
-        "R" : 116,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 14,
-        "G" : 255,
-        "R" : 9,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 120,
-        "G" : 143,
-        "R" : 225,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 51,
-        "G" : 151,
-        "R" : 221,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 169,
-        "G" : 182,
-        "R" : 99,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 90,
-        "G" : 224,
-        "R" : 17,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 66,
-        "G" : 108,
-        "R" : 92,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 37,
-        "G" : 161,
-        "R" : 123,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 8,
-        "G" : 222,
-        "R" : 74,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 21,
-        "G" : 41,
-        "R" : 6,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 213,
-        "G" : 145,
-        "R" : 67,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 112,
-        "G" : 28,
-        "R" : 151,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 233,
-        "G" : 131,
-        "R" : 247,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 38,
-        "G" : 181,
-        "R" : 67,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 196,
-        "G" : 222,
-        "R" : 170,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 169,
-        "G" : 148,
-        "R" : 134,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 215,
-        "G" : 213,
-        "R" : 27,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 246,
-        "G" : 5,
-        "R" : 166,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 145,
-        "G" : 205,
-        "R" : 12,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 21,
-        "G" : 116,
-        "R" : 10,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 67,
-        "G" : 100,
-        "R" : 40,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 1,
-        "G" : 111,
-        "R" : 85,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 119,
-        "G" : 156,
-        "R" : 39,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 205,
-        "G" : 27,
-        "R" : 113,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 197,
-        "G" : 114,
-        "R" : 137,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 127,
-        "G" : 243,
-        "R" : 170,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 80,
-        "G" : 105,
-        "R" : 70,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 44,
-        "G" : 19,
-        "R" : 246,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 24,
-        "G" : 221,
-        "R" : 113,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 106,
-        "G" : 91,
-        "R" : 106,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 6,
-        "G" : 139,
-        "R" : 134,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 135,
-        "G" : 242,
-        "R" : 60,
-        "label" : "green-ish"
-      },
-      { "B" : 112,
-        "G" : 169,
-        "R" : 25,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 190,
-        "G" : 141,
-        "R" : 154,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 55,
-        "G" : 10,
-        "R" : 232,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 116,
-        "G" : 17,
-        "R" : 40,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 112,
-        "G" : 11,
-        "R" : 108,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 85,
-        "G" : 74,
-        "R" : 230,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 78,
-        "G" : 180,
-        "R" : 198,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 47,
-        "G" : 49,
-        "R" : 40,
-        "label" : "grey-ish"
-      },
-      {
-        "B" : 18,
-        "G" : 159,
-        "R" : 61,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 160,
-        "G" : 109,
-        "R" : 27,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 125,
-        "G" : 157,
-        "R" : 51,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 119,
-        "G" : 66,
-        "R" : 47,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 173,
-        "G" : 190,
-        "R" : 41,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 27,
-        "G" : 53,
-        "R" : 233,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 57,
-        "G" : 29,
-        "R" : 94,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 124,
-        "G" : 127,
-        "R" : 216,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 200,
-        "G" : 38,
-        "R" : 226,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 48,
-        "G" : 228,
-        "R" : 219,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 169,
-        "G" : 43,
-        "R" : 44,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 23,
-        "G" : 253,
-        "R" : 188,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 199,
-        "G" : 221,
-        "R" : 45,
-        "label" : "blue-ish"
-      },
-      { "B" : 123,
-        "G" : 152,
-        "R" : 94,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 75,
-        "G" : 29,
-        "R" : 179,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 206,
-        "G" : 236,
-        "R" : 82,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 128,
-        "G" : 57,
-        "R" : 161,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 41,
-        "G" : 65,
-        "R" : 77,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 78,
-        "G" : 187,
-        "R" : 18,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 16,
-        "G" : 101,
-        "R" : 41,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 56,
-        "G" : 137,
-        "R" : 255,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 128,
-        "G" : 84,
-        "R" : 228,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 26,
-        "G" : 233,
-        "R" : 106,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 154,
-        "G" : 43,
-        "R" : 183,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 56,
-        "G" : 26,
-        "R" : 31,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 119,
-        "G" : 179,
-        "R" : 83,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 4,
-        "G" : 107,
-        "R" : 37,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 96,
-        "G" : 117,
-        "R" : 176,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 119,
-        "G" : 11,
-        "R" : 6,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 209,
-        "G" : 23,
-        "R" : 147,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 201,
-        "G" : 65,
-        "R" : 114,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 249,
-        "G" : 202,
-        "R" : 133,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 244,
-        "G" : 107,
-        "R" : 183,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 52,
-        "G" : 239,
-        "R" : 132,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 26,
-        "G" : 102,
-        "R" : 113,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 198,
-        "G" : 22,
-        "R" : 79,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 137,
-        "G" : 34,
-        "R" : 172,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 26,
-        "G" : 6,
-        "R" : 205,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 1,
-        "G" : 192,
-        "R" : 4,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 20,
-        "G" : 252,
-        "R" : 5,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 148,
-        "G" : 155,
-        "R" : 166,
-        "label" : "grey-ish"
-      },
-      {
-        "B" : 239,
-        "G" : 202,
-        "R" : 20,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 20,
-        "G" : 122,
-        "R" : 90,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 27,
-        "G" : 170,
-        "R" : 244,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 192,
-        "G" : 249,
-        "R" : 224,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 38,
-        "G" : 233,
-        "R" : 128,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 42,
-        "G" : 153,
-        "R" : 138,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 139,
-        "G" : 173,
-        "R" : 236,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 191,
-        "G" : 141,
-        "R" : 112,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 221,
-        "G" : 88,
-        "R" : 192,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 228,
-        "G" : 208,
-        "R" : 88,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 179,
-        "G" : 60,
-        "R" : 197,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 83,
-        "G" : 240,
-        "R" : 176,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 111,
-        "G" : 247,
-        "R" : 46,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 110,
-        "G" : 115,
-        "R" : 73,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 113,
-        "G" : 222,
-        "R" : 5,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 58,
-        "G" : 175,
-        "R" : 240,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 71,
-        "G" : 206,
-        "R" : 30,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 212,
-        "G" : 67,
-        "R" : 168,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 94,
-        "G" : 84,
-        "R" : 49,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 124,
-        "G" : 214,
-        "R" : 84,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 85,
-        "G" : 61,
-        "R" : 95,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 213,
-        "G" : 91,
-        "R" : 151,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 37,
-        "G" : 6,
-        "R" : 151,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 162,
-        "G" : 11,
-        "R" : 45,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 169,
-        "G" : 27,
-        "R" : 183,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 33,
-        "G" : 212,
-        "R" : 44,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 250,
-        "G" : 120,
-        "R" : 238,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 212,
-        "G" : 144,
-        "R" : 21,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 246,
-        "G" : 84,
-        "R" : 237,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 162,
-        "G" : 152,
-        "R" : 200,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 57,
-        "G" : 110,
-        "R" : 15,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 242,
-        "G" : 192,
-        "R" : 223,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 38,
-        "G" : 146,
-        "R" : 14,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 53,
-        "G" : 170,
-        "R" : 143,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 109,
-        "G" : 68,
-        "R" : 113,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 96,
-        "G" : 244,
-        "R" : 175,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 114,
-        "G" : 246,
-        "R" : 159,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 226,
-        "G" : 164,
-        "R" : 197,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 91,
-        "G" : 159,
-        "R" : 236,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 247,
-        "G" : 151,
-        "R" : 111,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 255,
-        "G" : 143,
-        "R" : 3,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 1,
-        "G" : 165,
-        "R" : 7,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 110,
-        "G" : 130,
-        "R" : 86,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 231,
-        "G" : 29,
-        "R" : 32,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 63,
-        "G" : 178,
-        "R" : 109,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 244,
-        "G" : 159,
-        "R" : 105,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 102,
-        "G" : 125,
-        "R" : 59,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 207,
-        "G" : 144,
-        "R" : 56,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 198,
-        "G" : 41,
-        "R" : 56,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 76,
-        "G" : 87,
-        "R" : 242,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 6,
-        "G" : 154,
-        "R" : 135,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 20,
-        "G" : 233,
-        "R" : 30,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 243,
-        "G" : 231,
-        "R" : 46,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 131,
-        "G" : 188,
-        "R" : 85,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 246,
-        "G" : 1,
-        "R" : 8,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 25,
-        "G" : 137,
-        "R" : 246,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 118,
-        "G" : 122,
-        "R" : 175,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 251,
-        "G" : 154,
-        "R" : 87,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 82,
-        "G" : 251,
-        "R" : 236,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 11,
-        "G" : 251,
-        "R" : 180,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 18,
-        "G" : 4,
-        "R" : 160,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 234,
-        "G" : 220,
-        "R" : 32,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 51,
-        "G" : 84,
-        "R" : 169,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 122,
-        "G" : 21,
-        "R" : 244,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 167,
-        "G" : 228,
-        "R" : 123,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 44,
-        "G" : 151,
-        "R" : 79,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 112,
-        "G" : 12,
-        "R" : 176,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 82,
-        "G" : 168,
-        "R" : 22,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 24,
-        "G" : 221,
-        "R" : 63,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 214,
-        "G" : 8,
-        "R" : 94,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 108,
-        "G" : 49,
-        "R" : 92,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 244,
-        "G" : 48,
-        "R" : 192,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 1,
-        "G" : 250,
-        "R" : 29,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 16,
-        "G" : 162,
-        "R" : 128,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 168,
-        "G" : 223,
-        "R" : 196,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 29,
-        "G" : 191,
-        "R" : 246,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 24,
-        "G" : 123,
-        "R" : 246,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 102,
-        "G" : 88,
-        "R" : 203,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 163,
-        "G" : 98,
-        "R" : 220,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 51,
-        "G" : 206,
-        "R" : 36,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 104,
-        "G" : 35,
-        "R" : 254,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 154,
-        "G" : 1,
-        "R" : 53,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 134,
-        "G" : 140,
-        "R" : 13,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 189,
-        "G" : 34,
-        "R" : 166,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 63,
-        "G" : 109,
-        "R" : 247,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 248,
-        "G" : 10,
-        "R" : 39,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 109,
-        "G" : 216,
-        "R" : 106,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 237,
-        "G" : 199,
-        "R" : 206,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 171,
-        "G" : 230,
-        "R" : 104,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 101,
-        "G" : 193,
-        "R" : 165,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 236,
-        "G" : 49,
-        "R" : 240,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 123,
-        "G" : 14,
-        "R" : 65,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 220,
-        "G" : 59,
-        "R" : 3,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 165,
-        "G" : 12,
-        "R" : 145,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 33,
-        "G" : 182,
-        "R" : 250,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 66,
-        "G" : 137,
-        "R" : 69,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 75,
-        "G" : 30,
-        "R" : 96,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 196,
-        "G" : 97,
-        "R" : 81,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 76,
-        "G" : 161,
-        "R" : 50,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 105,
-        "G" : 197,
-        "R" : 176,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 95,
-        "G" : 96,
-        "R" : 93,
-        "label" : "grey-ish"
-      },
-      {
-        "B" : 213,
-        "G" : 102,
-        "R" : 255,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 42,
-        "G" : 201,
-        "R" : 205,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 120,
-        "G" : 40,
-        "R" : 50,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 141,
-        "G" : 138,
-        "R" : 245,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 132,
-        "G" : 216,
-        "R" : 242,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 105,
-        "G" : 20,
-        "R" : 191,
-        "label" : "red-ish"
-      },
-      {
-        "B" : 134,
-        "G" : 248,
-        "R" : 252,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 65,
-        "G" : 194,
-        "R" : 5,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 60,
-        "G" : 224,
-        "R" : 32,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 165,
-        "G" : 53,
-        "R" : 164,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 219,
-        "G" : 21,
-        "R" : 42,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 43,
-        "G" : 86,
-        "R" : 111,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 37,
-        "G" : 80,
-        "R" : 113,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 212,
-        "G" : 132,
-        "R" : 85,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 129,
-        "G" : 93,
-        "R" : 69,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 152,
-        "G" : 251,
-        "R" : 74,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 203,
-        "G" : 25,
-        "R" : 75,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 14,
-        "G" : 134,
-        "R" : 250,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 148,
-        "G" : 28,
-        "R" : 252,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 118,
-        "G" : 252,
-        "R" : 229,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 6,
-        "G" : 60,
-        "R" : 204,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 131,
-        "G" : 1,
-        "R" : 201,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 229,
-        "G" : 92,
-        "R" : 134,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 148,
-        "G" : 249,
-        "R" : 81,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 242,
-        "G" : 175,
-        "R" : 136,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 131,
-        "G" : 254,
-        "R" : 79,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 156,
-        "G" : 86,
-        "R" : 186,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 51,
-        "G" : 221,
-        "R" : 122,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 44,
-        "G" : 160,
-        "R" : 57,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 222,
-        "G" : 135,
-        "R" : 213,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 153,
-        "G" : 38,
-        "R" : 211,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 38,
-        "G" : 207,
-        "R" : 226,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 52,
-        "G" : 107,
-        "R" : 164,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 3,
-        "G" : 172,
-        "R" : 250,
-        "label" : "orange-ish"
-      },
-      {
-        "B" : 8,
-        "G" : 228,
-        "R" : 156,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 245,
-        "G" : 169,
-        "R" : 241,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 97,
-        "G" : 228,
-        "R" : 129,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 122,
-        "G" : 34,
-        "R" : 213,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 135,
-        "G" : 225,
-        "R" : 34,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 36,
-        "G" : 196,
-        "R" : 82,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 56,
-        "G" : 139,
-        "R" : 153,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 95,
-        "G" : 223,
-        "R" : 158,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 123,
-        "G" : 172,
-        "R" : 59,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 191,
-        "G" : 96,
-        "R" : 105,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 247,
-        "G" : 110,
-        "R" : 97,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 140,
-        "G" : 82,
-        "R" : 53,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 134,
-        "G" : 103,
-        "R" : 108,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 180,
-        "G" : 44,
-        "R" : 146,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 192,
-        "G" : 140,
-        "R" : 148,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 16,
-        "G" : 60,
-        "R" : 92,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 45,
-        "G" : 111,
-        "R" : 145,
-        "label" : "brown-ish"
-      },
-      {
-        "B" : 219,
-        "G" : 6,
-        "R" : 199,
-        "label" : "pink-ish"
-      },
-      {
-        "B" : 34,
-        "G" : 164,
-        "R" : 161,
-        "label" : "yellow-ish"
-      },
-      {
-        "B" : 246,
-        "G" : 199,
-        "R" : 186,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 71,
-        "G" : 17,
-        "R" : 108,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 227,
-        "G" : 162,
-        "R" : 147,
-        "label" : "blue-ish"
-      },
-      {
-        "B" : 205,
-        "G" : 121,
-        "R" : 153,
-        "label" : "purple-ish"
-      },
-      {
-        "B" : 90,
-        "G" : 237,
-        "R" : 45,
-        "label" : "green-ish"
-      },
-      {
-        "B" : 232,
-        "G" : 183,
-        "R" : 120,
-        "label" : "blue-ish"
-      }
-    ]
-  }
-  
+  "colors" : [
+    {
+      "B" : 80,
+      "G" : 229,
+      "R" : 195,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 49,
+      "G" : 247,
+      "R" : 64,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 118,
+      "G" : 172,
+      "R" : 118,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 84,
+      "G" : 219,
+      "R" : 13,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 90,
+      "R" : 96,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 204,
+      "G" : 225,
+      "R" : 56,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 120,
+      "G" : 222,
+      "R" : 81,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 70,
+      "G" : 70,
+      "R" : 206,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 184,
+      "G" : 158,
+      "R" : 152,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 248,
+      "G" : 9,
+      "R" : 201,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 10,
+      "G" : 176,
+      "R" : 46,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 111,
+      "G" : 192,
+      "R" : 145,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 75,
+      "G" : 39,
+      "R" : 93,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 250,
+      "G" : 57,
+      "R" : 159,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 13,
+      "G" : 135,
+      "R" : 203,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 254,
+      "G" : 83,
+      "R" : 202,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 123,
+      "G" : 127,
+      "R" : 204,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 71,
+      "G" : 69,
+      "R" : 209,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 223,
+      "G" : 101,
+      "R" : 14,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 81,
+      "G" : 184,
+      "R" : 54,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 153,
+      "G" : 158,
+      "R" : 247,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 209,
+      "G" : 141,
+      "R" : 240,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 200,
+      "G" : 39,
+      "R" : 173,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 224,
+      "G" : 174,
+      "R" : 108,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 115,
+      "G" : 151,
+      "R" : 255,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 49,
+      "G" : 24,
+      "R" : 135,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 239,
+      "G" : 147,
+      "R" : 143,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 6,
+      "G" : 150,
+      "R" : 150,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 61,
+      "R" : 55,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 19,
+      "G" : 220,
+      "R" : 218,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 8,
+      "G" : 255,
+      "R" : 194,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 27,
+      "G" : 244,
+      "R" : 72,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 11,
+      "G" : 228,
+      "R" : 33,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 9,
+      "G" : 141,
+      "R" : 6,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 222,
+      "G" : 247,
+      "R" : 54,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 209,
+      "G" : 80,
+      "R" : 87,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 92,
+      "G" : 3,
+      "R" : 91,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 112,
+      "G" : 72,
+      "R" : 130,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 198,
+      "G" : 170,
+      "R" : 1,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 156,
+      "G" : 66,
+      "R" : 218,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 225,
+      "G" : 179,
+      "R" : 89,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 86,
+      "G" : 50,
+      "R" : 234,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 212,
+      "G" : 180,
+      "R" : 94,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 130,
+      "G" : 237,
+      "R" : 234,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 173,
+      "G" : 17,
+      "R" : 20,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 150,
+      "G" : 138,
+      "R" : 7,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 45,
+      "G" : 236,
+      "R" : 177,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 114,
+      "G" : 22,
+      "R" : 51,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 191,
+      "R" : 98,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 83,
+      "G" : 36,
+      "R" : 82,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 192,
+      "G" : 250,
+      "R" : 69,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 144,
+      "G" : 227,
+      "R" : 112,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 5,
+      "G" : 37,
+      "R" : 171,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 27,
+      "G" : 22,
+      "R" : 227,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 233,
+      "G" : 27,
+      "R" : 96,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 212,
+      "G" : 49,
+      "R" : 255,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 158,
+      "G" : 145,
+      "R" : 204,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 28,
+      "G" : 158,
+      "R" : 118,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 61,
+      "G" : 186,
+      "R" : 14,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 137,
+      "G" : 22,
+      "R" : 102,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 76,
+      "G" : 28,
+      "R" : 185,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 219,
+      "G" : 194,
+      "R" : 234,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 98,
+      "G" : 135,
+      "R" : 94,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 57,
+      "G" : 42,
+      "R" : 200,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 28,
+      "G" : 1,
+      "R" : 35,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 37,
+      "G" : 30,
+      "R" : 189,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 85,
+      "G" : 146,
+      "R" : 197,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 98,
+      "G" : 110,
+      "R" : 117,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 71,
+      "G" : 253,
+      "R" : 25,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 118,
+      "G" : 91,
+      "R" : 85,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 207,
+      "G" : 216,
+      "R" : 171,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 31,
+      "G" : 201,
+      "R" : 21,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 210,
+      "G" : 94,
+      "R" : 3,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 63,
+      "G" : 182,
+      "R" : 196,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 85,
+      "G" : 100,
+      "R" : 191,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 163,
+      "G" : 92,
+      "R" : 21,
+      "label" : "blue-ish"
+    },
+    { 
+      "B" : 178,
+      "G" : 209,
+      "R" : 242,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 38,
+      "G" : 210,
+      "R" : 219,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 246,
+      "G" : 254,
+      "R" : 51,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 216,
+      "G" : 239,
+      "R" : 127,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 98,
+      "G" : 187,
+      "R" : 133,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 28,
+      "G" : 226,
+      "R" : 23,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 170,
+      "G" : 72,
+      "R" : 201,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 222,
+      "G" : 186,
+      "R" : 85,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 45,
+      "G" : 243,
+      "R" : 49,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 189,
+      "G" : 113,
+      "R" : 105,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 74,
+      "G" : 127,
+      "R" : 140,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 69,
+      "G" : 178,
+      "R" : 255,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 240,
+      "G" : 44,
+      "R" : 249,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 189,
+      "G" : 253,
+      "R" : 211,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 219,
+      "G" : 77,
+      "R" : 13,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 248,
+      "G" : 184,
+      "R" : 127,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 84,
+      "G" : 240,
+      "R" : 177,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 217,
+      "G" : 49,
+      "R" : 145,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 101,
+      "G" : 181,
+      "R" : 154,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 222,
+      "G" : 203,
+      "R" : 37,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 229,
+      "G" : 244,
+      "R" : 211,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 55,
+      "G" : 244,
+      "R" : 254,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 108,
+      "G" : 84,
+      "R" : 52,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 125,
+      "G" : 166,
+      "R" : 63,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 15,
+      "G" : 144,
+      "R" : 113,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 21,
+      "G" : 125,
+      "R" : 103,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 206,
+      "G" : 219,
+      "R" : 116,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 255,
+      "R" : 9,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 120,
+      "G" : 143,
+      "R" : 225,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 51,
+      "G" : 151,
+      "R" : 221,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 169,
+      "G" : 182,
+      "R" : 99,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 90,
+      "G" : 224,
+      "R" : 17,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 66,
+      "G" : 108,
+      "R" : 92,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 37,
+      "G" : 161,
+      "R" : 123,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 8,
+      "G" : 222,
+      "R" : 74,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 21,
+      "G" : 41,
+      "R" : 6,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 213,
+      "G" : 145,
+      "R" : 67,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 112,
+      "G" : 28,
+      "R" : 151,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 233,
+      "G" : 131,
+      "R" : 247,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 38,
+      "G" : 181,
+      "R" : 67,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 196,
+      "G" : 222,
+      "R" : 170,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 169,
+      "G" : 148,
+      "R" : 134,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 215,
+      "G" : 213,
+      "R" : 27,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 246,
+      "G" : 5,
+      "R" : 166,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 145,
+      "G" : 205,
+      "R" : 12,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 21,
+      "G" : 116,
+      "R" : 10,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 67,
+      "G" : 100,
+      "R" : 40,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 111,
+      "R" : 85,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 119,
+      "G" : 156,
+      "R" : 39,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 205,
+      "G" : 27,
+      "R" : 113,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 197,
+      "G" : 114,
+      "R" : 137,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 127,
+      "G" : 243,
+      "R" : 170,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 80,
+      "G" : 105,
+      "R" : 70,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 44,
+      "G" : 19,
+      "R" : 246,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 24,
+      "G" : 221,
+      "R" : 113,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 106,
+      "G" : 91,
+      "R" : 106,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 6,
+      "G" : 139,
+      "R" : 134,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 135,
+      "G" : 242,
+      "R" : 60,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 112,
+      "G" : 169,
+      "R" : 25,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 190,
+      "G" : 141,
+      "R" : 154,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 55,
+      "G" : 10,
+      "R" : 232,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 116,
+      "G" : 17,
+      "R" : 40,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 112,
+      "G" : 11,
+      "R" : 108,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 85,
+      "G" : 74,
+      "R" : 230,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 78,
+      "G" : 180,
+      "R" : 198,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 47,
+      "G" : 49,
+      "R" : 40,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 18,
+      "G" : 159,
+      "R" : 61,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 160,
+      "G" : 109,
+      "R" : 27,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 125,
+      "G" : 157,
+      "R" : 51,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 119,
+      "G" : 66,
+      "R" : 47,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 173,
+      "G" : 190,
+      "R" : 41,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 27,
+      "G" : 53,
+      "R" : 233,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 57,
+      "G" : 29,
+      "R" : 94,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 124,
+      "G" : 127,
+      "R" : 216,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 200,
+      "G" : 38,
+      "R" : 226,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 48,
+      "G" : 228,
+      "R" : 219,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 169,
+      "G" : 43,
+      "R" : 44,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 23,
+      "G" : 253,
+      "R" : 188,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 199,
+      "G" : 221,
+      "R" : 45,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 123,
+      "G" : 152,
+      "R" : 94,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 75,
+      "G" : 29,
+      "R" : 179,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 206,
+      "G" : 236,
+      "R" : 82,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 128,
+      "G" : 57,
+      "R" : 161,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 41,
+      "G" : 65,
+      "R" : 77,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 78,
+      "G" : 187,
+      "R" : 18,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 16,
+      "G" : 101,
+      "R" : 41,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 56,
+      "G" : 137,
+      "R" : 255,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 128,
+      "G" : 84,
+      "R" : 228,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 26,
+      "G" : 233,
+      "R" : 106,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 154,
+      "G" : 43,
+      "R" : 183,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 56,
+      "G" : 26,
+      "R" : 31,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 119,
+      "G" : 179,
+      "R" : 83,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 4,
+      "G" : 107,
+      "R" : 37,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 96,
+      "G" : 117,
+      "R" : 176,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 119,
+      "G" : 11,
+      "R" : 6,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 209,
+      "G" : 23,
+      "R" : 147,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 201,
+      "G" : 65,
+      "R" : 114,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 249,
+      "G" : 202,
+      "R" : 133,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 244,
+      "G" : 107,
+      "R" : 183,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 239,
+      "R" : 132,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 26,
+      "G" : 102,
+      "R" : 113,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 198,
+      "G" : 22,
+      "R" : 79,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 137,
+      "G" : 34,
+      "R" : 172,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 26,
+      "G" : 6,
+      "R" : 205,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 192,
+      "R" : 4,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 20,
+      "G" : 252,
+      "R" : 5,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 148,
+      "G" : 155,
+      "R" : 166,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 239,
+      "G" : 202,
+      "R" : 20,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 20,
+      "G" : 122,
+      "R" : 90,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 27,
+      "G" : 170,
+      "R" : 244,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 192,
+      "G" : 249,
+      "R" : 224,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 38,
+      "G" : 233,
+      "R" : 128,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 42,
+      "G" : 153,
+      "R" : 138,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 139,
+      "G" : 173,
+      "R" : 236,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 191,
+      "G" : 141,
+      "R" : 112,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 221,
+      "G" : 88,
+      "R" : 192,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 228,
+      "G" : 208,
+      "R" : 88,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 179,
+      "G" : 60,
+      "R" : 197,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 83,
+      "G" : 240,
+      "R" : 176,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 111,
+      "G" : 247,
+      "R" : 46,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 110,
+      "G" : 115,
+      "R" : 73,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 113,
+      "G" : 222,
+      "R" : 5,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 58,
+      "G" : 175,
+      "R" : 240,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 71,
+      "G" : 206,
+      "R" : 30,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 212,
+      "G" : 67,
+      "R" : 168,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 94,
+      "G" : 84,
+      "R" : 49,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 124,
+      "G" : 214,
+      "R" : 84,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 85,
+      "G" : 61,
+      "R" : 95,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 213,
+      "G" : 91,
+      "R" : 151,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 37,
+      "G" : 6,
+      "R" : 151,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 162,
+      "G" : 11,
+      "R" : 45,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 169,
+      "G" : 27,
+      "R" : 183,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 33,
+      "G" : 212,
+      "R" : 44,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 250,
+      "G" : 120,
+      "R" : 238,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 212,
+      "G" : 144,
+      "R" : 21,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 246,
+      "G" : 84,
+      "R" : 237,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 162,
+      "G" : 152,
+      "R" : 200,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 57,
+      "G" : 110,
+      "R" : 15,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 242,
+      "G" : 192,
+      "R" : 223,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 38,
+      "G" : 146,
+      "R" : 14,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 53,
+      "G" : 170,
+      "R" : 143,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 109,
+      "G" : 68,
+      "R" : 113,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 96,
+      "G" : 244,
+      "R" : 175,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 114,
+      "G" : 246,
+      "R" : 159,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 226,
+      "G" : 164,
+      "R" : 197,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 91,
+      "G" : 159,
+      "R" : 236,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 247,
+      "G" : 151,
+      "R" : 111,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 255,
+      "G" : 143,
+      "R" : 3,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 165,
+      "R" : 7,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 110,
+      "G" : 130,
+      "R" : 86,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 231,
+      "G" : 29,
+      "R" : 32,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 63,
+      "G" : 178,
+      "R" : 109,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 244,
+      "G" : 159,
+      "R" : 105,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 102,
+      "G" : 125,
+      "R" : 59,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 207,
+      "G" : 144,
+      "R" : 56,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 198,
+      "G" : 41,
+      "R" : 56,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 76,
+      "G" : 87,
+      "R" : 242,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 6,
+      "G" : 154,
+      "R" : 135,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 20,
+      "G" : 233,
+      "R" : 30,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 243,
+      "G" : 231,
+      "R" : 46,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 131,
+      "G" : 188,
+      "R" : 85,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 246,
+      "G" : 1,
+      "R" : 8,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 25,
+      "G" : 137,
+      "R" : 246,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 118,
+      "G" : 122,
+      "R" : 175,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 251,
+      "G" : 154,
+      "R" : 87,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 82,
+      "G" : 251,
+      "R" : 236,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 11,
+      "G" : 251,
+      "R" : 180,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 18,
+      "G" : 4,
+      "R" : 160,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 234,
+      "G" : 220,
+      "R" : 32,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 51,
+      "G" : 84,
+      "R" : 169,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 122,
+      "G" : 21,
+      "R" : 244,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 167,
+      "G" : 228,
+      "R" : 123,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 44,
+      "G" : 151,
+      "R" : 79,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 112,
+      "G" : 12,
+      "R" : 176,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 82,
+      "G" : 168,
+      "R" : 22,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 24,
+      "G" : 221,
+      "R" : 63,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 214,
+      "G" : 8,
+      "R" : 94,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 108,
+      "G" : 49,
+      "R" : 92,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 244,
+      "G" : 48,
+      "R" : 192,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 250,
+      "R" : 29,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 16,
+      "G" : 162,
+      "R" : 128,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 168,
+      "G" : 223,
+      "R" : 196,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 29,
+      "G" : 191,
+      "R" : 246,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 24,
+      "G" : 123,
+      "R" : 246,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 102,
+      "G" : 88,
+      "R" : 203,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 163,
+      "G" : 98,
+      "R" : 220,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 51,
+      "G" : 206,
+      "R" : 36,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 104,
+      "G" : 35,
+      "R" : 254,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 154,
+      "G" : 1,
+      "R" : 53,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 134,
+      "G" : 140,
+      "R" : 13,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 189,
+      "G" : 34,
+      "R" : 166,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 63,
+      "G" : 109,
+      "R" : 247,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 248,
+      "G" : 10,
+      "R" : 39,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 109,
+      "G" : 216,
+      "R" : 106,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 237,
+      "G" : 199,
+      "R" : 206,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 171,
+      "G" : 230,
+      "R" : 104,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 101,
+      "G" : 193,
+      "R" : 165,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 236,
+      "G" : 49,
+      "R" : 240,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 123,
+      "G" : 14,
+      "R" : 65,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 220,
+      "G" : 59,
+      "R" : 3,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 165,
+      "G" : 12,
+      "R" : 145,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 33,
+      "G" : 182,
+      "R" : 250,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 66,
+      "G" : 137,
+      "R" : 69,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 75,
+      "G" : 30,
+      "R" : 96,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 196,
+      "G" : 97,
+      "R" : 81,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 76,
+      "G" : 161,
+      "R" : 50,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 105,
+      "G" : 197,
+      "R" : 176,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 95,
+      "G" : 96,
+      "R" : 93,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 213,
+      "G" : 102,
+      "R" : 255,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 42,
+      "G" : 201,
+      "R" : 205,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 120,
+      "G" : 40,
+      "R" : 50,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 141,
+      "G" : 138,
+      "R" : 245,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 132,
+      "G" : 216,
+      "R" : 242,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 105,
+      "G" : 20,
+      "R" : 191,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 134,
+      "G" : 248,
+      "R" : 252,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 65,
+      "G" : 194,
+      "R" : 5,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 60,
+      "G" : 224,
+      "R" : 32,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 165,
+      "G" : 53,
+      "R" : 164,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 219,
+      "G" : 21,
+      "R" : 42,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 43,
+      "G" : 86,
+      "R" : 111,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 37,
+      "G" : 80,
+      "R" : 113,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 212,
+      "G" : 132,
+      "R" : 85,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 129,
+      "G" : 93,
+      "R" : 69,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 152,
+      "G" : 251,
+      "R" : 74,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 203,
+      "G" : 25,
+      "R" : 75,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 134,
+      "R" : 250,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 148,
+      "G" : 28,
+      "R" : 252,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 118,
+      "G" : 252,
+      "R" : 229,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 6,
+      "G" : 60,
+      "R" : 204,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 131,
+      "G" : 1,
+      "R" : 201,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 229,
+      "G" : 92,
+      "R" : 134,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 148,
+      "G" : 249,
+      "R" : 81,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 242,
+      "G" : 175,
+      "R" : 136,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 131,
+      "G" : 254,
+      "R" : 79,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 156,
+      "G" : 86,
+      "R" : 186,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 51,
+      "G" : 221,
+      "R" : 122,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 44,
+      "G" : 160,
+      "R" : 57,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 222,
+      "G" : 135,
+      "R" : 213,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 153,
+      "G" : 38,
+      "R" : 211,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 38,
+      "G" : 207,
+      "R" : 226,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 107,
+      "R" : 164,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 3,
+      "G" : 172,
+      "R" : 250,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 8,
+      "G" : 228,
+      "R" : 156,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 245,
+      "G" : 169,
+      "R" : 241,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 97,
+      "G" : 228,
+      "R" : 129,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 122,
+      "G" : 34,
+      "R" : 213,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 135,
+      "G" : 225,
+      "R" : 34,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 36,
+      "G" : 196,
+      "R" : 82,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 56,
+      "G" : 139,
+      "R" : 153,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 95,
+      "G" : 223,
+      "R" : 158,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 123,
+      "G" : 172,
+      "R" : 59,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 191,
+      "G" : 96,
+      "R" : 105,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 247,
+      "G" : 110,
+      "R" : 97,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 140,
+      "G" : 82,
+      "R" : 53,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 134,
+      "G" : 103,
+      "R" : 108,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 180,
+      "G" : 44,
+      "R" : 146,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 192,
+      "G" : 140,
+      "R" : 148,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 16,
+      "G" : 60,
+      "R" : 92,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 45,
+      "G" : 111,
+      "R" : 145,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 219,
+      "G" : 6,
+      "R" : 199,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 34,
+      "G" : 164,
+      "R" : 161,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 246,
+      "G" : 199,
+      "R" : 186,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 71,
+      "G" : 17,
+      "R" : 108,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 227,
+      "G" : 162,
+      "R" : 147,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 205,
+      "G" : 121,
+      "R" : 153,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 90,
+      "G" : 237,
+      "R" : 45,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 232,
+      "G" : 183,
+      "R" : 120,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 117,
+      "G" : 78,
+      "R" : 30,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 44,
+      "G" : 134,
+      "R" : 76,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 146,
+      "G" : 255,
+      "R" : 91,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 197,
+      "G" : 105,
+      "R" : 170,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 81,
+      "G" : 247,
+      "R" : 54,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 214,
+      "G" : 159,
+      "R" : 255,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 252,
+      "G" : 46,
+      "R" : 146,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 34,
+      "G" : 124,
+      "R" : 214,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 124,
+      "G" : 45,
+      "R" : 123,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 170,
+      "G" : 170,
+      "R" : 159,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 64,
+      "G" : 78,
+      "R" : 140,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 94,
+      "G" : 116,
+      "R" : 173,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 56,
+      "R" : 6,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 191,
+      "G" : 205,
+      "R" : 227,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 165,
+      "G" : 161,
+      "R" : 122,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 241,
+      "G" : 162,
+      "R" : 12,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 40,
+      "G" : 30,
+      "R" : 240,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 51,
+      "G" : 29,
+      "R" : 241,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 160,
+      "G" : 44,
+      "R" : 201,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 177,
+      "G" : 40,
+      "R" : 22,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 211,
+      "G" : 93,
+      "R" : 22,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 253,
+      "G" : 79,
+      "R" : 140,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 3,
+      "G" : 205,
+      "R" : 124,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 140,
+      "G" : 209,
+      "R" : 171,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 129,
+      "G" : 169,
+      "R" : 163,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 185,
+      "G" : 117,
+      "R" : 149,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 176,
+      "G" : 211,
+      "R" : 218,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 111,
+      "G" : 253,
+      "R" : 44,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 107,
+      "G" : 69,
+      "R" : 67,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 121,
+      "G" : 183,
+      "R" : 41,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 197,
+      "G" : 35,
+      "R" : 197,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 57,
+      "G" : 104,
+      "R" : 231,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 114,
+      "G" : 170,
+      "R" : 1,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 244,
+      "G" : 212,
+      "R" : 144,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 227,
+      "G" : 68,
+      "R" : 73,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 157,
+      "G" : 112,
+      "R" : 154,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 32,
+      "G" : 140,
+      "R" : 3,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 30,
+      "G" : 195,
+      "R" : 213,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 251,
+      "G" : 230,
+      "R" : 8,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 171,
+      "G" : 101,
+      "R" : 208,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 237,
+      "G" : 239,
+      "R" : 85,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 236,
+      "G" : 182,
+      "R" : 75,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 197,
+      "G" : 183,
+      "R" : 47,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 245,
+      "G" : 13,
+      "R" : 136,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 49,
+      "G" : 66,
+      "R" : 87,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 33,
+      "G" : 146,
+      "R" : 5,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 130,
+      "G" : 72,
+      "R" : 152,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 36,
+      "G" : 46,
+      "R" : 110,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 27,
+      "G" : 185,
+      "R" : 135,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 181,
+      "G" : 217,
+      "R" : 240,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 115,
+      "G" : 116,
+      "R" : 92,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 85,
+      "G" : 144,
+      "R" : 236,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 143,
+      "G" : 167,
+      "R" : 51,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 119,
+      "G" : 26,
+      "R" : 88,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 77,
+      "G" : 135,
+      "R" : 82,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 111,
+      "G" : 83,
+      "R" : 175,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 213,
+      "G" : 52,
+      "R" : 17,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 91,
+      "G" : 195,
+      "R" : 146,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 138,
+      "G" : 180,
+      "R" : 108,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 189,
+      "G" : 229,
+      "R" : 172,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 84,
+      "G" : 220,
+      "R" : 236,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 170,
+      "G" : 26,
+      "R" : 82,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 174,
+      "G" : 67,
+      "R" : 174,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 125,
+      "G" : 85,
+      "R" : 140,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 89,
+      "G" : 36,
+      "R" : 244,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 46,
+      "G" : 85,
+      "R" : 249,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 17,
+      "G" : 104,
+      "R" : 33,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 203,
+      "G" : 201,
+      "R" : 94,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 246,
+      "G" : 161,
+      "R" : 237,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 165,
+      "G" : 164,
+      "R" : 189,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 195,
+      "G" : 49,
+      "R" : 204,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 164,
+      "G" : 26,
+      "R" : 30,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 248,
+      "G" : 123,
+      "R" : 202,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 156,
+      "G" : 171,
+      "R" : 93,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 111,
+      "G" : 207,
+      "R" : 193,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 149,
+      "G" : 70,
+      "R" : 194,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 166,
+      "G" : 158,
+      "R" : 220,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 98,
+      "G" : 48,
+      "R" : 214,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 22,
+      "R" : 141,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 64,
+      "G" : 130,
+      "R" : 207,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 32,
+      "G" : 171,
+      "R" : 246,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 155,
+      "G" : 229,
+      "R" : 49,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 51,
+      "G" : 108,
+      "R" : 19,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 17,
+      "G" : 99,
+      "R" : 238,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 160,
+      "G" : 94,
+      "R" : 35,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 245,
+      "G" : 113,
+      "R" : 76,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 143,
+      "G" : 157,
+      "R" : 45,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 231,
+      "G" : 207,
+      "R" : 142,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 61,
+      "G" : 143,
+      "R" : 181,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 187,
+      "G" : 141,
+      "R" : 243,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 109,
+      "G" : 128,
+      "R" : 62,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 48,
+      "G" : 34,
+      "R" : 184,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 116,
+      "G" : 107,
+      "R" : 32,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 110,
+      "G" : 78,
+      "R" : 9,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 119,
+      "G" : 224,
+      "R" : 189,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 105,
+      "G" : 249,
+      "R" : 218,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 238,
+      "G" : 107,
+      "R" : 170,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 206,
+      "G" : 118,
+      "R" : 227,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 209,
+      "G" : 61,
+      "R" : 151,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 229,
+      "G" : 199,
+      "R" : 41,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 117,
+      "G" : 124,
+      "R" : 9,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 5,
+      "G" : 12,
+      "R" : 21,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 235,
+      "G" : 93,
+      "R" : 14,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 57,
+      "G" : 87,
+      "R" : 223,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 204,
+      "G" : 68,
+      "R" : 22,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 72,
+      "G" : 166,
+      "R" : 237,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 9,
+      "G" : 29,
+      "R" : 156,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 220,
+      "G" : 248,
+      "R" : 129,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 47,
+      "G" : 230,
+      "R" : 209,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 41,
+      "G" : 40,
+      "R" : 68,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 105,
+      "G" : 214,
+      "R" : 115,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 188,
+      "G" : 107,
+      "R" : 85,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 86,
+      "G" : 71,
+      "R" : 248,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 34,
+      "G" : 211,
+      "R" : 93,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 166,
+      "G" : 221,
+      "R" : 31,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 68,
+      "G" : 119,
+      "R" : 167,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 109,
+      "G" : 60,
+      "R" : 92,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 5,
+      "G" : 193,
+      "R" : 145,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 32,
+      "G" : 196,
+      "R" : 224,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 118,
+      "G" : 179,
+      "R" : 202,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 247,
+      "G" : 12,
+      "R" : 64,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 239,
+      "G" : 16,
+      "R" : 120,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 212,
+      "G" : 215,
+      "R" : 95,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 156,
+      "G" : 176,
+      "R" : 216,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 160,
+      "G" : 136,
+      "R" : 137,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 111,
+      "G" : 176,
+      "R" : 123,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 212,
+      "G" : 89,
+      "R" : 60,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 146,
+      "G" : 77,
+      "R" : 104,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 181,
+      "G" : 86,
+      "R" : 161,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 97,
+      "G" : 196,
+      "R" : 54,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 218,
+      "G" : 158,
+      "R" : 13,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 99,
+      "R" : 136,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 175,
+      "G" : 41,
+      "R" : 118,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 164,
+      "G" : 38,
+      "R" : 125,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 40,
+      "G" : 200,
+      "R" : 170,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 201,
+      "G" : 188,
+      "R" : 107,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 97,
+      "G" : 177,
+      "R" : 217,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 61,
+      "G" : 34,
+      "R" : 86,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 230,
+      "G" : 112,
+      "R" : 92,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 228,
+      "G" : 153,
+      "R" : 210,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 248,
+      "G" : 133,
+      "R" : 208,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 226,
+      "G" : 106,
+      "R" : 253,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 43,
+      "G" : 34,
+      "R" : 53,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 176,
+      "G" : 109,
+      "R" : 220,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 205,
+      "G" : 204,
+      "R" : 104,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 2,
+      "G" : 67,
+      "R" : 131,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 122,
+      "G" : 107,
+      "R" : 145,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 131,
+      "G" : 101,
+      "R" : 38,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 16,
+      "G" : 107,
+      "R" : 55,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 32,
+      "G" : 81,
+      "R" : 40,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 70,
+      "G" : 67,
+      "R" : 56,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 155,
+      "G" : 252,
+      "R" : 65,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 225,
+      "G" : 65,
+      "R" : 70,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 70,
+      "G" : 47,
+      "R" : 207,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 168,
+      "G" : 102,
+      "R" : 24,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 247,
+      "G" : 134,
+      "R" : 200,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 15,
+      "G" : 158,
+      "R" : 71,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 153,
+      "G" : 72,
+      "R" : 100,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 83,
+      "G" : 99,
+      "R" : 24,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 198,
+      "G" : 159,
+      "R" : 62,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 137,
+      "G" : 16,
+      "R" : 117,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 64,
+      "G" : 223,
+      "R" : 17,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 179,
+      "G" : 125,
+      "R" : 18,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 57,
+      "G" : 246,
+      "R" : 212,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 187,
+      "G" : 239,
+      "R" : 207,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 166,
+      "G" : 69,
+      "R" : 131,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 53,
+      "G" : 79,
+      "R" : 112,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 245,
+      "G" : 196,
+      "R" : 187,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 155,
+      "G" : 224,
+      "R" : 200,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 92,
+      "G" : 9,
+      "R" : 218,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 5,
+      "G" : 147,
+      "R" : 224,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 254,
+      "G" : 92,
+      "R" : 151,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 174,
+      "G" : 9,
+      "R" : 48,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 140,
+      "G" : 60,
+      "R" : 200,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 210,
+      "G" : 199,
+      "R" : 59,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 172,
+      "G" : 58,
+      "R" : 93,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 142,
+      "G" : 96,
+      "R" : 243,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 112,
+      "G" : 146,
+      "R" : 66,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 155,
+      "G" : 132,
+      "R" : 110,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 216,
+      "G" : 206,
+      "R" : 204,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 180,
+      "G" : 11,
+      "R" : 95,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 255,
+      "G" : 250,
+      "R" : 201,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 164,
+      "G" : 181,
+      "R" : 212,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 108,
+      "G" : 217,
+      "R" : 28,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 31,
+      "G" : 42,
+      "R" : 111,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 203,
+      "G" : 199,
+      "R" : 198,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 240,
+      "G" : 232,
+      "R" : 130,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 16,
+      "G" : 106,
+      "R" : 20,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 126,
+      "G" : 129,
+      "R" : 48,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 199,
+      "G" : 221,
+      "R" : 206,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 10,
+      "G" : 243,
+      "R" : 104,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 78,
+      "G" : 53,
+      "R" : 132,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 101,
+      "G" : 32,
+      "R" : 89,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 184,
+      "R" : 200,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 9,
+      "G" : 141,
+      "R" : 233,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 168,
+      "G" : 165,
+      "R" : 213,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 186,
+      "G" : 67,
+      "R" : 46,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 125,
+      "G" : 5,
+      "R" : 97,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 69,
+      "G" : 195,
+      "R" : 78,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 121,
+      "G" : 102,
+      "R" : 106,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 165,
+      "G" : 78,
+      "R" : 184,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 216,
+      "G" : 153,
+      "R" : 58,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 216,
+      "G" : 103,
+      "R" : 41,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 8,
+      "G" : 218,
+      "R" : 44,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 100,
+      "G" : 231,
+      "R" : 97,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 123,
+      "G" : 16,
+      "R" : 82,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 10,
+      "G" : 208,
+      "R" : 121,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 206,
+      "G" : 156,
+      "R" : 211,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 127,
+      "G" : 59,
+      "R" : 102,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 103,
+      "G" : 105,
+      "R" : 143,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 239,
+      "G" : 206,
+      "R" : 13,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 213,
+      "R" : 244,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 71,
+      "G" : 92,
+      "R" : 152,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 177,
+      "G" : 175,
+      "R" : 58,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 73,
+      "G" : 172,
+      "R" : 102,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 170,
+      "G" : 232,
+      "R" : 210,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 134,
+      "G" : 245,
+      "R" : 178,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 236,
+      "G" : 177,
+      "R" : 171,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 72,
+      "G" : 162,
+      "R" : 183,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 182,
+      "G" : 241,
+      "R" : 230,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 59,
+      "G" : 224,
+      "R" : 139,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 96,
+      "G" : 93,
+      "R" : 137,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 186,
+      "G" : 39,
+      "R" : 66,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 170,
+      "G" : 225,
+      "R" : 193,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 232,
+      "G" : 142,
+      "R" : 140,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 147,
+      "G" : 152,
+      "R" : 125,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 156,
+      "G" : 242,
+      "R" : 223,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 103,
+      "G" : 149,
+      "R" : 2,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 80,
+      "G" : 147,
+      "R" : 165,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 7,
+      "G" : 254,
+      "R" : 191,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 210,
+      "G" : 163,
+      "R" : 39,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 133,
+      "G" : 249,
+      "R" : 47,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 243,
+      "G" : 73,
+      "R" : 93,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 135,
+      "G" : 31,
+      "R" : 36,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 236,
+      "G" : 187,
+      "R" : 128,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 74,
+      "G" : 173,
+      "R" : 91,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 132,
+      "G" : 253,
+      "R" : 74,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 146,
+      "G" : 251,
+      "R" : 25,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 61,
+      "G" : 162,
+      "R" : 93,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 121,
+      "G" : 124,
+      "R" : 174,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 47,
+      "G" : 173,
+      "R" : 195,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 22,
+      "G" : 36,
+      "R" : 137,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 249,
+      "G" : 26,
+      "R" : 156,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 77,
+      "G" : 221,
+      "R" : 72,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 163,
+      "G" : 187,
+      "R" : 47,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 243,
+      "G" : 77,
+      "R" : 73,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 202,
+      "G" : 118,
+      "R" : 134,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 241,
+      "G" : 81,
+      "R" : 254,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 227,
+      "G" : 51,
+      "R" : 249,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 76,
+      "G" : 239,
+      "R" : 32,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 116,
+      "G" : 187,
+      "R" : 141,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 180,
+      "G" : 18,
+      "R" : 91,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 57,
+      "G" : 223,
+      "R" : 57,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 85,
+      "G" : 254,
+      "R" : 178,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 39,
+      "G" : 109,
+      "R" : 32,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 90,
+      "G" : 86,
+      "R" : 120,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 184,
+      "G" : 195,
+      "R" : 1,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 183,
+      "G" : 201,
+      "R" : 121,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 23,
+      "G" : 32,
+      "R" : 131,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 71,
+      "G" : 169,
+      "R" : 85,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 56,
+      "G" : 236,
+      "R" : 104,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 142,
+      "G" : 91,
+      "R" : 196,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 43,
+      "G" : 81,
+      "R" : 219,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 223,
+      "R" : 118,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 47,
+      "G" : 157,
+      "R" : 144,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 110,
+      "G" : 40,
+      "R" : 22,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 73,
+      "G" : 6,
+      "R" : 71,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 147,
+      "G" : 74,
+      "R" : 111,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 107,
+      "G" : 75,
+      "R" : 196,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 169,
+      "G" : 89,
+      "R" : 2,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 223,
+      "G" : 7,
+      "R" : 37,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 34,
+      "G" : 115,
+      "R" : 142,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 41,
+      "G" : 46,
+      "R" : 152,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 130,
+      "G" : 43,
+      "R" : 240,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 40,
+      "G" : 151,
+      "R" : 213,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 153,
+      "G" : 27,
+      "R" : 167,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 84,
+      "G" : 54,
+      "R" : 1,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 216,
+      "G" : 97,
+      "R" : 17,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 23,
+      "G" : 250,
+      "R" : 238,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 116,
+      "G" : 218,
+      "R" : 244,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 164,
+      "G" : 55,
+      "R" : 151,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 166,
+      "G" : 163,
+      "R" : 148,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 205,
+      "G" : 146,
+      "R" : 148,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 44,
+      "G" : 106,
+      "R" : 13,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 71,
+      "R" : 8,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 10,
+      "G" : 168,
+      "R" : 120,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 9,
+      "G" : 193,
+      "R" : 143,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 182,
+      "G" : 169,
+      "R" : 21,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 28,
+      "G" : 88,
+      "R" : 208,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 179,
+      "R" : 36,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 162,
+      "G" : 236,
+      "R" : 77,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 198,
+      "G" : 9,
+      "R" : 25,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 215,
+      "G" : 99,
+      "R" : 240,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 198,
+      "G" : 207,
+      "R" : 212,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 49,
+      "G" : 102,
+      "R" : 199,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 21,
+      "G" : 191,
+      "R" : 148,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 236,
+      "G" : 54,
+      "R" : 29,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 176,
+      "G" : 101,
+      "R" : 151,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 216,
+      "G" : 2,
+      "R" : 235,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 135,
+      "G" : 111,
+      "R" : 18,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 152,
+      "G" : 191,
+      "R" : 49,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 191,
+      "G" : 188,
+      "R" : 168,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 77,
+      "G" : 248,
+      "R" : 231,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 184,
+      "G" : 146,
+      "R" : 70,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 125,
+      "G" : 175,
+      "R" : 9,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 24,
+      "G" : 113,
+      "R" : 241,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 90,
+      "G" : 75,
+      "R" : 9,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 38,
+      "G" : 63,
+      "R" : 159,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 48,
+      "G" : 241,
+      "R" : 47,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 241,
+      "G" : 111,
+      "R" : 45,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 181,
+      "G" : 144,
+      "R" : 162,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 199,
+      "G" : 224,
+      "R" : 241,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 174,
+      "G" : 117,
+      "R" : 251,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 190,
+      "G" : 117,
+      "R" : 56,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 159,
+      "G" : 217,
+      "R" : 186,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 169,
+      "G" : 105,
+      "R" : 235,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 118,
+      "G" : 73,
+      "R" : 180,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 3,
+      "G" : 225,
+      "R" : 211,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 151,
+      "G" : 32,
+      "R" : 109,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 228,
+      "G" : 103,
+      "R" : 48,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 117,
+      "G" : 95,
+      "R" : 182,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 193,
+      "G" : 167,
+      "R" : 170,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 29,
+      "G" : 148,
+      "R" : 99,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 237,
+      "G" : 139,
+      "R" : 106,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 120,
+      "G" : 134,
+      "R" : 199,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 207,
+      "G" : 210,
+      "R" : 67,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 176,
+      "G" : 103,
+      "R" : 210,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 54,
+      "G" : 223,
+      "R" : 9,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 191,
+      "G" : 161,
+      "R" : 176,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 44,
+      "G" : 87,
+      "R" : 94,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 155,
+      "G" : 249,
+      "R" : 166,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 188,
+      "G" : 178,
+      "R" : 100,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 246,
+      "G" : 243,
+      "R" : 2,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 131,
+      "G" : 186,
+      "R" : 33,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 134,
+      "G" : 205,
+      "R" : 216,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 46,
+      "G" : 111,
+      "R" : 243,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 14,
+      "G" : 228,
+      "R" : 252,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 100,
+      "G" : 133,
+      "R" : 116,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 109,
+      "G" : 180,
+      "R" : 105,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 55,
+      "G" : 190,
+      "R" : 238,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 126,
+      "G" : 234,
+      "R" : 213,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 10,
+      "G" : 153,
+      "R" : 49,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 201,
+      "G" : 164,
+      "R" : 223,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 170,
+      "G" : 23,
+      "R" : 144,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 4,
+      "G" : 91,
+      "R" : 86,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 172,
+      "G" : 216,
+      "R" : 179,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 10,
+      "G" : 86,
+      "R" : 100,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 98,
+      "G" : 20,
+      "R" : 99,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 187,
+      "G" : 115,
+      "R" : 112,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 155,
+      "G" : 43,
+      "R" : 218,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 120,
+      "G" : 163,
+      "R" : 3,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 253,
+      "G" : 35,
+      "R" : 117,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 18,
+      "G" : 125,
+      "R" : 173,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 221,
+      "G" : 231,
+      "R" : 249,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 236,
+      "G" : 205,
+      "R" : 154,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 246,
+      "G" : 179,
+      "R" : 14,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 184,
+      "G" : 46,
+      "R" : 57,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 156,
+      "G" : 98,
+      "R" : 49,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 107,
+      "G" : 199,
+      "R" : 12,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 252,
+      "G" : 185,
+      "R" : 229,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 155,
+      "R" : 163,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 9,
+      "G" : 146,
+      "R" : 171,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 203,
+      "G" : 207,
+      "R" : 103,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 126,
+      "G" : 168,
+      "R" : 199,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 121,
+      "G" : 32,
+      "R" : 121,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 241,
+      "G" : 188,
+      "R" : 154,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 115,
+      "G" : 149,
+      "R" : 126,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 226,
+      "G" : 126,
+      "R" : 92,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 202,
+      "G" : 113,
+      "R" : 121,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 236,
+      "G" : 212,
+      "R" : 222,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 166,
+      "G" : 144,
+      "R" : 204,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 18,
+      "G" : 154,
+      "R" : 141,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 169,
+      "G" : 109,
+      "R" : 87,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 90,
+      "G" : 238,
+      "R" : 67,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 6,
+      "G" : 246,
+      "R" : 99,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 227,
+      "G" : 96,
+      "R" : 55,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 171,
+      "G" : 154,
+      "R" : 61,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 107,
+      "R" : 77,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 217,
+      "G" : 97,
+      "R" : 203,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 234,
+      "G" : 62,
+      "R" : 251,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 71,
+      "G" : 199,
+      "R" : 92,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 8,
+      "G" : 211,
+      "R" : 158,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 250,
+      "G" : 66,
+      "R" : 42,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 133,
+      "G" : 58,
+      "R" : 28,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 215,
+      "G" : 250,
+      "R" : 139,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 45,
+      "G" : 224,
+      "R" : 155,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 118,
+      "G" : 242,
+      "R" : 133,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 128,
+      "R" : 230,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 77,
+      "G" : 126,
+      "R" : 26,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 105,
+      "G" : 99,
+      "R" : 134,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 92,
+      "G" : 14,
+      "R" : 80,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 108,
+      "G" : 33,
+      "R" : 177,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 81,
+      "G" : 165,
+      "R" : 106,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 174,
+      "G" : 236,
+      "R" : 240,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 136,
+      "G" : 103,
+      "R" : 243,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 144,
+      "G" : 64,
+      "R" : 165,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 179,
+      "G" : 145,
+      "R" : 211,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 141,
+      "G" : 70,
+      "R" : 174,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 109,
+      "G" : 128,
+      "R" : 137,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 194,
+      "G" : 25,
+      "R" : 183,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 6,
+      "G" : 177,
+      "R" : 50,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 159,
+      "G" : 111,
+      "R" : 71,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 38,
+      "G" : 248,
+      "R" : 203,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 32,
+      "G" : 47,
+      "R" : 241,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 136,
+      "G" : 236,
+      "R" : 104,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 21,
+      "G" : 122,
+      "R" : 196,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 27,
+      "G" : 133,
+      "R" : 212,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 239,
+      "G" : 81,
+      "R" : 35,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 217,
+      "G" : 11,
+      "R" : 193,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 166,
+      "G" : 3,
+      "R" : 118,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 113,
+      "G" : 250,
+      "R" : 4,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 65,
+      "G" : 92,
+      "R" : 153,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 233,
+      "G" : 164,
+      "R" : 199,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 93,
+      "G" : 80,
+      "R" : 154,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 181,
+      "G" : 170,
+      "R" : 225,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 69,
+      "G" : 103,
+      "R" : 221,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 41,
+      "G" : 79,
+      "R" : 30,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 26,
+      "G" : 171,
+      "R" : 207,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 51,
+      "G" : 78,
+      "R" : 124,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 122,
+      "G" : 93,
+      "R" : 197,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 201,
+      "G" : 248,
+      "R" : 253,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 212,
+      "G" : 156,
+      "R" : 158,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 169,
+      "G" : 47,
+      "R" : 138,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 56,
+      "G" : 115,
+      "R" : 62,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 34,
+      "G" : 236,
+      "R" : 187,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 175,
+      "G" : 162,
+      "R" : 252,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 80,
+      "G" : 181,
+      "R" : 232,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 182,
+      "G" : 213,
+      "R" : 124,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 119,
+      "G" : 117,
+      "R" : 25,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 16,
+      "G" : 61,
+      "R" : 10,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 245,
+      "G" : 216,
+      "R" : 115,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 150,
+      "G" : 122,
+      "R" : 13,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 17,
+      "G" : 55,
+      "R" : 63,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 96,
+      "G" : 92,
+      "R" : 85,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 83,
+      "G" : 48,
+      "R" : 227,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 83,
+      "G" : 192,
+      "R" : 224,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 69,
+      "G" : 120,
+      "R" : 223,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 53,
+      "G" : 60,
+      "R" : 45,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 243,
+      "G" : 18,
+      "R" : 234,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 218,
+      "G" : 125,
+      "R" : 46,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 122,
+      "G" : 118,
+      "R" : 245,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 167,
+      "G" : 33,
+      "R" : 56,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 141,
+      "G" : 35,
+      "R" : 251,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 161,
+      "G" : 82,
+      "R" : 239,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 224,
+      "G" : 248,
+      "R" : 207,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 136,
+      "G" : 84,
+      "R" : 102,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 41,
+      "G" : 52,
+      "R" : 63,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 189,
+      "G" : 153,
+      "R" : 194,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 158,
+      "G" : 100,
+      "R" : 47,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 24,
+      "G" : 142,
+      "R" : 173,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 130,
+      "G" : 113,
+      "R" : 193,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 35,
+      "G" : 158,
+      "R" : 226,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 192,
+      "G" : 96,
+      "R" : 45,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 230,
+      "G" : 72,
+      "R" : 157,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 165,
+      "G" : 247,
+      "R" : 55,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 12,
+      "G" : 171,
+      "R" : 221,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 138,
+      "G" : 13,
+      "R" : 169,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 106,
+      "G" : 26,
+      "R" : 225,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 108,
+      "G" : 8,
+      "R" : 133,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 96,
+      "G" : 26,
+      "R" : 251,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 23,
+      "G" : 81,
+      "R" : 221,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 255,
+      "G" : 55,
+      "R" : 68,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 237,
+      "R" : 74,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 235,
+      "G" : 249,
+      "R" : 175,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 218,
+      "G" : 5,
+      "R" : 154,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 136,
+      "G" : 139,
+      "R" : 156,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 150,
+      "G" : 202,
+      "R" : 70,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 168,
+      "G" : 197,
+      "R" : 60,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 58,
+      "G" : 129,
+      "R" : 145,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 148,
+      "G" : 129,
+      "R" : 234,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 204,
+      "G" : 41,
+      "R" : 131,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 140,
+      "R" : 169,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 61,
+      "G" : 193,
+      "R" : 235,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 132,
+      "G" : 42,
+      "R" : 233,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 211,
+      "G" : 69,
+      "R" : 113,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 28,
+      "G" : 208,
+      "R" : 40,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 252,
+      "G" : 216,
+      "R" : 160,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 236,
+      "G" : 211,
+      "R" : 39,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 48,
+      "G" : 215,
+      "R" : 70,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 39,
+      "G" : 198,
+      "R" : 61,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 35,
+      "G" : 141,
+      "R" : 245,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 180,
+      "G" : 133,
+      "R" : 250,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 83,
+      "G" : 74,
+      "R" : 76,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 207,
+      "G" : 124,
+      "R" : 245,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 154,
+      "G" : 167,
+      "R" : 138,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 203,
+      "G" : 221,
+      "R" : 249,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 211,
+      "G" : 220,
+      "R" : 107,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 2,
+      "G" : 142,
+      "R" : 67,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 205,
+      "G" : 96,
+      "R" : 79,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 1,
+      "G" : 42,
+      "R" : 156,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 220,
+      "G" : 129,
+      "R" : 200,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 135,
+      "G" : 69,
+      "R" : 122,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 87,
+      "G" : 235,
+      "R" : 58,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 214,
+      "G" : 75,
+      "R" : 207,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 167,
+      "G" : 32,
+      "R" : 96,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 49,
+      "G" : 147,
+      "R" : 184,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 42,
+      "G" : 54,
+      "R" : 57,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 97,
+      "G" : 112,
+      "R" : 133,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 235,
+      "G" : 114,
+      "R" : 98,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 81,
+      "G" : 205,
+      "R" : 84,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 52,
+      "G" : 79,
+      "R" : 178,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 21,
+      "G" : 29,
+      "R" : 2,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 159,
+      "G" : 2,
+      "R" : 42,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 87,
+      "G" : 255,
+      "R" : 218,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 83,
+      "G" : 152,
+      "R" : 154,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 86,
+      "G" : 113,
+      "R" : 228,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 38,
+      "G" : 25,
+      "R" : 13,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 225,
+      "G" : 222,
+      "R" : 228,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 214,
+      "G" : 242,
+      "R" : 87,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 174,
+      "G" : 209,
+      "R" : 153,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 118,
+      "G" : 237,
+      "R" : 236,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 71,
+      "G" : 120,
+      "R" : 30,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 7,
+      "G" : 29,
+      "R" : 41,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 237,
+      "G" : 17,
+      "R" : 228,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 166,
+      "G" : 220,
+      "R" : 161,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 205,
+      "G" : 35,
+      "R" : 237,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 156,
+      "G" : 208,
+      "R" : 131,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 4,
+      "G" : 102,
+      "R" : 126,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 73,
+      "G" : 176,
+      "R" : 38,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 72,
+      "G" : 46,
+      "R" : 211,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 36,
+      "G" : 123,
+      "R" : 88,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 134,
+      "G" : 255,
+      "R" : 53,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 100,
+      "G" : 97,
+      "R" : 221,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 232,
+      "G" : 100,
+      "R" : 151,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 39,
+      "G" : 213,
+      "R" : 228,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 29,
+      "G" : 112,
+      "R" : 239,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 115,
+      "G" : 50,
+      "R" : 68,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 192,
+      "G" : 115,
+      "R" : 120,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 40,
+      "G" : 103,
+      "R" : 255,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 134,
+      "G" : 112,
+      "R" : 148,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 159,
+      "G" : 43,
+      "R" : 190,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 249,
+      "G" : 219,
+      "R" : 12,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 156,
+      "G" : 197,
+      "R" : 154,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 61,
+      "G" : 184,
+      "R" : 91,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 48,
+      "G" : 156,
+      "R" : 228,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 54,
+      "G" : 113,
+      "R" : 118,
+      "label" : "yellow-ish"
+    },
+    {
+      "B" : 64,
+      "G" : 146,
+      "R" : 143,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 74,
+      "G" : 221,
+      "R" : 144,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 157,
+      "G" : 142,
+      "R" : 122,
+      "label" : "grey-ish"
+    },
+    {
+      "B" : 148,
+      "G" : 120,
+      "R" : 41,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 101,
+      "G" : 45,
+      "R" : 112,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 254,
+      "G" : 96,
+      "R" : 137,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 220,
+      "G" : 103,
+      "R" : 163,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 91,
+      "G" : 21,
+      "R" : 187,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 188,
+      "G" : 246,
+      "R" : 28,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 213,
+      "G" : 154,
+      "R" : 164,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 84,
+      "G" : 190,
+      "R" : 86,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 24,
+      "G" : 103,
+      "R" : 58,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 145,
+      "G" : 187,
+      "R" : 185,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 180,
+      "G" : 254,
+      "R" : 198,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 231,
+      "G" : 153,
+      "R" : 51,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 163,
+      "G" : 61,
+      "R" : 150,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 122,
+      "G" : 138,
+      "R" : 220,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 19,
+      "G" : 167,
+      "R" : 98,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 242,
+      "G" : 98,
+      "R" : 132,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 77,
+      "G" : 124,
+      "R" : 193,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 198,
+      "G" : 56,
+      "R" : 21,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 114,
+      "G" : 254,
+      "R" : 234,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 126,
+      "G" : 151,
+      "R" : 228,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 173,
+      "G" : 235,
+      "R" : 219,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 39,
+      "G" : 38,
+      "R" : 242,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 36,
+      "G" : 76,
+      "R" : 249,
+      "label" : "red-ish"
+    },
+    {
+      "B" : 244,
+      "G" : 36,
+      "R" : 107,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 123,
+      "G" : 106,
+      "R" : 136,
+      "label" : "purple-ish"
+    },
+    {
+      "B" : 57,
+      "G" : 196,
+      "R" : 108,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 44,
+      "G" : 101,
+      "R" : 185,
+      "label" : "orange-ish"
+    },
+    {
+      "B" : 175,
+      "G" : 182,
+      "R" : 54,
+      "label" : "blue-ish"
+    },
+    {
+      "B" : 63,
+      "G" : 167,
+      "R" : 101,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 59,
+      "G" : 100,
+      "R" : 127,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 56,
+      "G" : 83,
+      "R" : 115,
+      "label" : "brown-ish"
+    },
+    {
+      "B" : 170,
+      "G" : 227,
+      "R" : 209,
+      "label" : "green-ish"
+    },
+    {
+      "B" : 138,
+      "G" : 93,
+      "R" : 251,
+      "label" : "pink-ish"
+    },
+    {
+      "B" : 111,
+      "G" : 240,
+      "R" : 12,
+      "label" : "green-ish"
+    }
+  ]
+}

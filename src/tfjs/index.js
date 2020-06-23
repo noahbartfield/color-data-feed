@@ -1,7 +1,7 @@
 import data from './data.json'
 import * as tf from '@tensorflow/tfjs'
 
-function trainModel() {
+function buildModel() {
     let model;
 
     const labelList = [
@@ -49,7 +49,14 @@ function trainModel() {
 
     // Create an opimizer
     const lr = 0.2
-    const optimizer = tf.train.sgd(lr)
+    const sgdOpt = tf.train.sgd(lr)
+
+    model.compile({
+        optimizer: sgdOpt,
+        loss: 'categoricalCrossentropy'
+    })
+
+
 
     // "meanSquaredError" --> "categoricalCrossEntropy"
 
@@ -57,7 +64,26 @@ function trainModel() {
 
     // tain model
 
-    
+
+    const config = {
+        verbose: true,
+        epochs: 5,
+        shuffle: true
+    }
+
+    async function trainModel() {
+        for (let i = 0; i < 10; i++) {
+            const response = await model.fit(xs, ys, config)
+            console.log(response.history.loss[0])
+        }
+    }
+
+    trainModel().then(() => {
+        console.log('training complete')
+        const outputs = model.predict(xs)
+        outputs.print()
+    })
+
 }
 
-export default trainModel
+export default buildModel

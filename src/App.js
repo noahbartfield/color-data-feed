@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import * as firebase from 'firebase'
 import cleanData from './cleanData.js'
-import trainModel from './tfjs'
+import buildModel from './tfjs'
 
 function App() {
 
@@ -49,7 +49,7 @@ function App() {
     cleanData()
   }
 
-  trainModel()
+  buildModel()
 
   return (
     <div className="App">
