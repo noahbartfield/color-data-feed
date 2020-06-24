@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import * as firebase from 'firebase'
-import ColorBlock from './colorBlock'
 
 function cleanData() {
     let canvasArray = []
@@ -37,18 +36,8 @@ function cleanData() {
         }
     }
 
-    function printBlocks() {
-        colorByLabel['blue-ish'].map(blue => {
-            return <ColorBlock color={blue} />
-        })
-    }
-
     setUp()
-    printBlocks()
 
-    colorByLabel['blue-ish'].map(blue => {
-        return <ColorBlock color={blue} />
-    })
 }
 
 export default cleanData
