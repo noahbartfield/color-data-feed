@@ -63,9 +63,6 @@ function App() {
   return (
     <div className='App'>
       <div>
-        <button onClick={build}>Train Model</button>
-      </div>
-      <div>
         <canvas
           style={{ background: color, height: '240px', width: '240px' }}
         ></canvas>
@@ -97,6 +94,7 @@ function App() {
       <button id='grey-ish' onClick={submit}>
         grey-ish
       </button>
+      <div style={{ height: '100px' }}></div>
       <div>
         <button id='red' onClick={chooseDataColor}>Log Red Data</button>
         <button id='pink' onClick={chooseDataColor}>Log Pink Data</button>
@@ -108,9 +106,15 @@ function App() {
         <button id='brown' onClick={chooseDataColor}>Log Brown Data</button>
         <button id='grey' onClick={chooseDataColor}>Log Grey Data</button>
       </div>
-      <div style={{ display: 'flex', flexWrap: 'wrap', width: '100%', height: 'auto' }}>
+      <div style={{
+        display: 'flex', flexWrap: 'wrap', height: 'auto', width: '100%'
+      }}>
         {colorDataArray.length > 0 &&
           colorDataArray.map((colorData) => <ColorBlock colorData={colorData} />)}
+      </div>
+      <div style={{ height: '100px' }}></div>
+      <div>
+        <button onClick={build}>Train Model</button>
       </div>
     </div>
   );
